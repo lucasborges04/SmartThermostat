@@ -27,7 +27,4 @@ public class SmartThermostat {
         return temperature;
     }
 
-    public void setTemperature(int temperature){
-        this.temperature = temperature;
-    }
 }
